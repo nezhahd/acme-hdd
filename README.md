@@ -6,6 +6,7 @@ acme.sh本地IP一键证书申请脚本(支持standalone模式与DNS API模式�
 wget -N https://github.com/nezhahd/acme-hdd/raw/main/acme.sh && bash acme.sh
 ```
 
+作者原版
 ```
 wget -N https://gitlab.com/rwkgyg/acme-script/raw/main/acme.sh && bash acme.sh
 ```
